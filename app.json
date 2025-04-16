@@ -7,12 +7,12 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "VAJIRA-MD=4PkhzaxA#J0VfC-w7xGyyqZQ_MN9y4Ph3_uUQjgsLDKQVBAzXjw0",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=4PkhzaxA#J0VfC-w7xGyyqZQ_MN9y4Ph3_uUQjgsLDKQVBAzXjw0"
         },
     "MODE": {
-            "description": "Put button or nonbutton to change the mode",
+            "description": "nonbutton",
             "required": true,
             "value": "nonbutton"
         }
